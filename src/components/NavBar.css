@@ -4,14 +4,14 @@
     width: 70px;
     padding: 5px;
     margin: 0 6px 6px;
-    background: lightblue;
+    background: rgb(14, 221, 42);
     text-decoration: none;
     text-align: center;
     font-size: min(10vw, 15px) ;
-    color: black;
+    color: rgb(2, 18, 236);
 }
   
 a.active {
-    background: black;
-    color: white;
+    background: rgb(201, 33, 33);
+    color: rgb(0, 0, 0);
 }
